@@ -10,7 +10,7 @@ Welcome to this repository. I have instructions and resources so you can get up 
 
 4. We will be using TextBlob. Make sure to run these commands in your terminal / shell.
 
-    $ pip install -U textblob
-    $ python -m textblob.download_corpora
-
+       $ pip install -U textblob
+       $ python -m textblob.download_corpora
+       
 5. The associated data files are located in the [data folder](./tweets.csv).
