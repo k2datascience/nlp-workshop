@@ -14,3 +14,7 @@ Welcome to this repository. I have instructions and resources so you can get up 
        $ python -m textblob.download_corpora
 
 5. We will be using the [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) provided by Kaggle. The associated data files are located in the [data folder](./tweets.csv).
+
+----------
+
+Organized by [K2 Data Science](http://www.k2datascience.com)
