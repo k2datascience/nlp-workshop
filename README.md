@@ -12,5 +12,5 @@ Welcome to this repository. I have instructions and resources so you can get up 
 
        $ pip install -U textblob
        $ python -m textblob.download_corpora
-       
-5. The associated data files are located in the [data folder](./tweets.csv).
+
+5. We will be using the [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) provided by Kaggle. The associated data files are located in the [data folder](./tweets.csv).
